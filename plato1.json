@@ -1,0 +1,15 @@
+{
+  "name": "Plato1",
+  "description": "Hamburguesa con patatas",
+  "image": "https://github.com/boyarenys/Ejercicio1Pac2/blob/main/Plato1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Hamburguesa",
+      "value": "Tenera"
+    },
+    {
+      "trait_type": "Restaurante",
+      "value": "Urban village"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Plato2",
+  "description": "Tempura de verdura",
+  "image": "https://github.com/boyarenys/Ejercicio1Pac2/blob/main/Plato2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Tempura",
+      "value": "Verduras"
+    },
+    {
+      "trait_type": "Restaurante",
+      "value": "Urban village"
+    }
+  ]
+}
